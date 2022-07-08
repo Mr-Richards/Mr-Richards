@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 <p align="left">
-<a href="https://www.github.com/mr-richards" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> <span>&nbsp;&nbsp;&nbsp;&nbsp;<span />
-<a href="https://www.linkedin.com/in/alexprice-richards/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />  </a> <span>&nbsp;&nbsp;&nbsp;&nbsp;<span />
-<a href="https://www.twitter.com/mr_richardsss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </a></p>
+<a href="https://www.github.com/mr-richards" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;<span />
+<a href="https://www.linkedin.com/in/alexprice-richards/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;<span />
+<a href="https://www.twitter.com/mr_richardsss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 Full Stack Software Engineer
 ----------------------------
