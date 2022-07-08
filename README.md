@@ -11,7 +11,7 @@ I'm passionate about Human Computer Interaction, Machine learning and Artificial
 *   🧠  I'm currently focusing on learning Unity... in the pipeline: Three.js, Next.js and Svelte.
 *   ⚡  Kick flips, dogs with sticks & getting amongst it 🏔️ 🌳 🌊
 
-### Toolbox 🧰
+## Toolbox 🧰
 <p align="left">
   Languages <br />
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
