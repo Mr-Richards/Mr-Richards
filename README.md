@@ -11,7 +11,7 @@ I'm passionate about Human Computer Interaction, Machine learning and Artificial
 *   🌍  I'm based near London, UK
 *   ✉️  You can contact me at [alexpricerichards@gmail.com](mailto:alexpricerichards@gmail.com)
 *   🧠  I'm currently focusing on learning Unity... in the pipeline: Three.js, Next.js and Svelte.
-*   ⚡  Kick flips, dogs with sticks & getting amongst it 🏔️ 🌳 🌊
+*   ⚡  Kickflips, dogs with sticks & getting amongst it 🏔️ 🌳 🌊
 
 ## Toolbox 🧰
 <p align="left">
