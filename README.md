@@ -5,12 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Software Engineer
 ----------------------------
+I'm passionate about Human Computer Interaction, Machine Learning and Artificial Intelligence. I enjoy using first principles thinking to break down complex problems into simple tasks. 
 
-I'm passionate about Human Computer Interaction, Machine learning and Artificial intelligence.
-
-*   🌍  I'm based near London, UK
+*   🌍  I'm currently based near London, UK
 *   ✉️  You can contact me at [alexpricerichards@gmail.com](mailto:alexpricerichards@gmail.com)
-*   🧠  I'm currently focusing on learning Unity... in the pipeline: Three.js, Next.js and Svelte.
+*   🧠  I'm currently focusing on learning Unity... in the pipeline: Three.js, Next.js and Svelte
 *   ⚡  Kickflips, dogs with sticks & getting amongst it 🏔️ 🌳 🌊
 
 ## Toolbox 🧰
