@@ -7,7 +7,7 @@ Full Stack Software Engineer
 ----------------------------
 I am passionate about Human Computer Interaction, Machine Learning and Artificial Intelligence. I enjoy using first principles thinking to break down complex problems into simple tasks. 
 
-*   🌍  I'm currently based near London, UK
+*   🌍  I'm currently based in London, UK
 *   ✉️  You can contact me at [alexpricerichards@gmail.com](mailto:alexpricerichards@gmail.com)
 *   🧠  I'm currently focusing on learning Unity... in the pipeline: Three.js, Next.js and Svelte
 *   ⚡  Kickflips, dogs with sticks & getting amongst it 🏔️ 🌳 🌊
